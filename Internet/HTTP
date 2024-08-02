@@ -2,33 +2,26 @@ HTTP (Protocolo de Transferencia de Hipertexto) es un protocolo de comunicación
 en la World Wide Web. Es la base del intercambio de datos en Internet. 
 
 Características principales:
-Función:
-Facilita la comunicación entre navegadores web (clientes) y servidores.
 
-Modelo cliente-servidor: 
-El cliente envía solicitudes, el servidor responde con los datos solicitados.
+1. Función: Facilita la comunicación entre navegadores web (clientes) y servidores.
 
-Sin estado: 
-Cada solicitud es independiente, no guarda información de solicitudes anteriores.
+2. Modelo cliente-servidor: El cliente envía solicitudes, el servidor responde con los datos solicitados.
 
-Métodos de solicitud:
-GET: Solicita datos
-POST: Envía datos para ser procesados
-PUT: Actualiza recursos existentes
-DELETE: Elimina recursos
-Otros: HEAD, OPTIONS, PATCH, etc.
+3. Sin estado: Cada solicitud es independiente, no guarda información de solicitudes anteriores.
 
+4. Métodos de solicitud:
+   - GET: Solicita datos
+   - POST: Envía datos para ser procesados
+   - PUT: Actualiza recursos existentes
+   - DELETE: Elimina recursos
+   - Otros: HEAD, OPTIONS, PATCH, etc.
 
-Códigos de estado: 
-Indican el resultado de la solicitud (200 OK, 404 Not Found, etc.)
+5. Códigos de estado: Indican el resultado de la solicitud (200 OK, 404 Not Found, etc.)
 
-Cabeceras: 
-Proporcionan información adicional sobre la solicitud o respuesta.
+6. Cabeceras: Proporcionan información adicional sobre la solicitud o respuesta.
 
-HTTPS: 
-Versión segura de HTTP que utiliza encriptación SSL/TLS.
+7. HTTPS: Versión segura de HTTP que utiliza encriptación SSL/TLS.
 
-HTTP/2 y HTTP/3: 
-Versiones más recientes con mejoras en rendimiento y seguridad.
+8. HTTP/2 y HTTP/3: Versiones más recientes con mejoras en rendimiento y seguridad.
 
 HTTP es fundamental para la navegación web, permitiendo la carga de páginas, envío de formularios, y la base de muchas APIs web.
