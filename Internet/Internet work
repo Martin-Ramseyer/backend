@@ -1,0 +1,43 @@
+Internet funciona como una red de redes, utilizando una serie de protocolos y tecnologías para 
+transmitir datos entre dispositivos. Aquí está una explicación simplificada de su funcionamiento:
+
+Conexión física:
+Dispositivos se conectan a través de cables, fibra óptica o conexiones inalámbricas.
+Estas conexiones forman redes locales que se enlazan a redes más grandes.
+
+
+Protocolo IP:
+Cada dispositivo tiene una dirección IP única.
+Los datos se dividen en paquetes, cada uno con información de origen y destino.
+
+
+Enrutamiento:
+Los routers dirigen los paquetes de datos a través de la red.
+Eligen la ruta más eficiente basándose en tablas de enrutamiento.
+
+
+TCP (Protocolo de Control de Transmisión):
+Asegura que los paquetes lleguen en orden y sin errores.
+Maneja la retransmisión de paquetes perdidos.
+
+
+Servidores y clientes:
+Los servidores almacenan y proporcionan información.
+Los clientes (como navegadores web) solicitan y reciben datos de los servidores.
+
+
+DNS (Sistema de Nombres de Dominio):
+Traduce nombres de dominio a direcciones IP.
+
+
+Protocolos de aplicación:
+HTTP para web, SMTP para correo electrónico, FTP para transferencia de archivos, etc.
+
+
+Infraestructura global:
+Incluye cables submarinos, satélites y centros de datos que facilitan la comunicación internacional.
+
+
+
+Este sistema permite que los datos viajen rápidamente entre dispositivos en cualquier parte del mundo, 
+formando la base de los servicios de Internet que usamos diariamente.
