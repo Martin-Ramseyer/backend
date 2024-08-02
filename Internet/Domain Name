@@ -1,0 +1,30 @@
+Un domain name (nombre de dominio) es una dirección legible y fácil de recordar que se utiliza para identificar sitios web en Internet. 
+Es esencialmente un alias para la dirección IP numérica de un servidor web. Aspectos clave:
+
+1. Estructura: 
+   - Generalmente consta de dos o más partes separadas por puntos.
+   - Ejemplo: www.ejemplo.com
+
+2. Partes principales:
+   - Dominio de nivel superior (TLD): La última parte (.com, .org, .net, etc.)
+   - Dominio de segundo nivel: La parte personalizada (ejemplo en www.ejemplo.com)
+   - Subdominio (opcional): Precede al dominio principal (www en www.ejemplo.com)
+
+3. Función: 
+   - Facilita la memorización de direcciones web.
+   - Permite cambiar la dirección IP del servidor sin afectar a los usuarios.
+
+4. Registro:
+   - Se adquieren a través de registradores de dominios autorizados.
+   - Tienen un costo anual y deben renovarse.
+
+5. Unicidad:
+   - Cada nombre de dominio es único a nivel global.
+
+6. Uso en URLs:
+   - Forma parte de la URL completa de un sitio web.
+
+7. Relación con DNS:
+   - El sistema DNS traduce los nombres de dominio a direcciones IP.
+
+Los nombres de dominio son cruciales para la identidad en línea de empresas y organizaciones, facilitando el acceso a sus sitios web.
