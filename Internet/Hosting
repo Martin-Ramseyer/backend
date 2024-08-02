@@ -1,0 +1,30 @@
+Un hosting, o alojamiento web, es un servicio que permite almacenar y hacer accesible un sitio web en Internet.
+
+1. Función: Proporciona espacio en servidores para almacenar archivos de sitios web.
+
+2. Accesibilidad: Permite que el sitio web esté disponible 24/7 en Internet.
+
+3. Tipos comunes:
+   - Compartido: Múltiples sitios en un servidor.
+   - VPS (Servidor Privado Virtual): Recursos dedicados en un servidor compartido.
+   - Dedicado: Un servidor físico completo para un solo cliente.
+   - Cloud: Recursos distribuidos en múltiples servidores.
+
+4. Servicios ofrecidos:
+   - Almacenamiento de archivos
+   - Bases de datos
+   - Correo electrónico
+   - Respaldos
+   - Seguridad básica
+
+5. Características técnicas:
+   - Espacio en disco
+   - Ancho de banda
+   - Procesamiento (CPU)
+   - Memoria RAM
+
+6. Panel de control: Interfaz para gestionar el hosting (cPanel, Plesk, etc.).
+
+7. Soporte técnico: Varía según el proveedor y plan.
+
+8. Escalabilidad: Posibilidad de aumentar recursos según las necesidades.

@@ -1,0 +1,35 @@
+DNS (Sistema de Nombres de Dominio) es un sistema fundamental de Internet que traduce nombres de dominio 
+legibles por humanos en direcciones IP numéricas que las computadoras utilizan para identificarse entre sí.
+
+1. Propósito:
+   - Facilita la navegación web al permitir el uso de nombres fáciles de recordar en lugar de direcciones IP.
+
+2. Estructura jerárquica:
+   - Organizado en una estructura de árbol con dominios de nivel superior (TLD) en la cima.
+
+3. Componentes principales:
+   - Servidores DNS raíz
+   - Servidores de TLD
+   - Servidores DNS autoritativos
+   - Servidores DNS recursivos
+
+4. Proceso de resolución:
+   a. El usuario ingresa un nombre de dominio en el navegador.
+   b. La solicitud se envía a un servidor DNS recursivo (generalmente proporcionado por el ISP).
+   c. Si no tiene la información en caché, el servidor recursivo consulta a los servidores raíz.
+   d. Los servidores raíz dirigen al servidor TLD apropiado.
+   e. El servidor TLD apunta al servidor DNS autoritativo para ese dominio.
+   f. El servidor autoritativo proporciona la dirección IP correspondiente.
+   g. La dirección IP se devuelve al dispositivo del usuario.
+
+5. Caché:
+   - Los resultados se almacenan temporalmente en varios niveles para acelerar futuras consultas.
+
+6. Registros DNS:
+   - A (dirección IPv4), AAAA (IPv6), MX (servidor de correo), CNAME (alias), entre otros.
+
+7. Actualizaciones y propagación:
+   - Los cambios en los registros DNS pueden tardar en propagarse globalmente (TTL).
+
+8. Seguridad:
+   - DNSSEC añade firmas criptográficas para prevenir falsificaciones.

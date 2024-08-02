@@ -1,0 +1,40 @@
+Un browser, o navegador web, es un programa que permite a los usuarios acceder, visualizar e interactuar con contenido en Internet.
+
+1. Función principal:
+   - Interpreta y muestra páginas web escritas en HTML, CSS y JavaScript.
+
+2. Componentes clave:
+   - Interfaz de usuario
+   - Motor de renderizado
+   - Motor JavaScript
+   - Almacenamiento de datos
+
+3. Proceso de carga de una página:
+   a. El usuario introduce una URL.
+   b. El navegador consulta al DNS para obtener la dirección IP.
+   c. Establece una conexión con el servidor web.
+   d. Solicita la página mediante HTTP/HTTPS.
+   e. Recibe los archivos HTML, CSS, JavaScript e imágenes.
+   f. Renderiza la página para mostrarla al usuario.
+
+4. Renderizado:
+   - Analiza el HTML para crear el DOM (Document Object Model).
+   - Aplica estilos CSS.
+   - Ejecuta JavaScript para interactividad.
+
+5. Características adicionales:
+   - Pestañas y ventanas múltiples
+   - Historial de navegación
+   - Marcadores
+   - Modo incógnito/privado
+   - Extensiones y complementos
+
+6. Seguridad:
+   - Implementa HTTPS para conexiones seguras.
+   - Bloquea contenido malicioso conocido.
+   - Advierte sobre sitios potencialmente peligrosos.
+
+7. Almacenamiento:
+   - Caché para cargar páginas más rápido.
+   - Cookies para mantener información de sesión.
+   - Almacenamiento local para datos persistentes.
